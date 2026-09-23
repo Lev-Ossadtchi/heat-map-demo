@@ -65,7 +65,7 @@ const map = new maplibregl.Map({
 map.addControl(new maplibregl.NavigationControl({ showCompass:false }), 'bottom-right');
 map.addControl(new maplibregl.ScaleControl({ unit:'metric' }), 'bottom-left');
 
-map.on('style.load', async () => {
+const init = async () => {
 
   const [pts, reg] = await Promise.all([
     fetch('points.json').then(r => r.json()),
@@ -150,5 +150,10 @@ map.on('style.load', async () => {
       map.setLayoutProperty('osm', 'visibility', 'none');
     }
   };
-});
+};
+
+// Пустой стиль загружается мгновенно, и событие style.load успевает пройти
+// до того, как на него подпишешься: карта тогда остаётся пустой навсегда.
+// Поэтому сначала проверяем, не загрузился ли стиль уже.
+if (map.isStyleLoaded()) init(); else map.once('style.load', init);
 </script>
