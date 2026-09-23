@@ -2,20 +2,21 @@
 <meta charset="utf-8">
 <title>Карта объектов теплоснабжения — демонстрация</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.7.1/maplibre-gl.js"></script>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.7.1/maplibre-gl.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.heat/0.2.0/leaflet-heat.js"></script>
 <style>
-  :root { --ink:#16202b; --muted:#5d6b7a; --line:#d8dee6; --bg:#f7f8fa; }
-  * { box-sizing: border-box; }
-  body { margin:0; font:15px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; color:var(--ink); }
-  #map { position:absolute; inset:0; }
+  :root { --ink:#16202b; --muted:#5d6b7a; --line:#d8dee6; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:15px/1.5 -apple-system,"Segoe UI",Roboto,sans-serif; color:var(--ink); }
+  #map { position:absolute; inset:0; background:#eef2f5; }
   .panel {
-    position:absolute; top:16px; left:16px; z-index:2; width:310px; max-width:calc(100vw - 32px);
+    position:absolute; top:16px; left:16px; z-index:500; width:312px; max-width:calc(100vw - 32px);
     background:#fff; border:1px solid var(--line); border-radius:10px; padding:16px 18px;
     box-shadow:0 6px 24px rgba(20,30,45,.13);
   }
   .panel h1 { margin:0 0 4px; font-size:17px; }
-  .panel p  { margin:0 0 12px; color:var(--muted); font-size:13px; }
+  .panel p { margin:0 0 12px; color:var(--muted); font-size:13px; }
   .row { display:flex; align-items:center; gap:8px; margin:7px 0; font-size:14px; }
   .row input { accent-color:#7aa5c6; }
   .legend { margin-top:12px; border-top:1px solid var(--line); padding-top:12px; font-size:12.5px; color:var(--muted); }
@@ -24,25 +25,25 @@
   .nums { display:flex; justify-content:space-between; font-size:11.5px; }
   .src { margin-top:12px; font-size:11.5px; color:var(--muted); }
   .src a { color:inherit; }
-  .maplibregl-popup-content { font:14px/1.45 -apple-system, sans-serif; padding:10px 13px; }
-  .maplibregl-popup-content b { display:block; margin-bottom:2px; }
+  .leaflet-popup-content { font:14px/1.45 -apple-system,sans-serif; margin:10px 13px; }
+  .leaflet-popup-content b { display:block; margin-bottom:2px; }
   @media (max-width:560px){ .panel{ position:static; width:auto; margin:12px; } #map{ position:relative; height:70vh; } }
 </style>
 
 <div class="panel">
   <h1>Объекты теплоснабжения</h1>
-  <p>Демонстрация карты: точки, покрытие по регионам и тепловая подложка — на открытых данных.</p>
+  <p>Демонстрация: точки, покрытие по регионам и тепловая подложка — на открытых данных.</p>
   <div class="row"><input type="checkbox" id="base"><label for="base">Подложка OSM</label></div>
   <div class="row"><input type="checkbox" id="heat" checked><label for="heat">Тепловая карта</label></div>
   <div class="row"><input type="checkbox" id="zones" checked><label for="zones">Покрытие по регионам</label></div>
-  <div class="row"><input type="checkbox" id="dots" checked><label for="dots">Объекты (<span id="n">0</span>)</label></div>
+  <div class="row"><input type="checkbox" id="dots" checked><label for="dots">Объекты (<span id="n">…</span>)</label></div>
   <div class="legend">
     Объектов в регионе
     <div class="scale">
       <i style="background:#f7f9fa"></i><i style="background:#e4edf3"></i><i style="background:#cddfea"></i>
       <i style="background:#b2cde0"></i><i style="background:#96b9d3"></i><i style="background:#7aa5c6"></i>
     </div>
-    <div class="nums"><span>0</span><span>10</span><span>20</span><span>40+</span></div>
+    <div class="nums"><span>0</span><span>10</span><span>20</span><span>30+</span></div>
   </div>
   <div class="src">
     Данные: объекты — <a href="https://query.wikidata.org" target="_blank" rel="noopener">Wikidata</a>,
@@ -53,107 +54,54 @@
 <div id="map"></div>
 
 <script>
-const map = new maplibregl.Map({
-  container: 'map',
-  // Стиль начинается пустым, а подложка добавляется отдельным слоем. Так карта
-  // остаётся работоспособной, даже если тайловый сервер недоступен: границы
-  // регионов сами дают географический контекст, и данные видны в любом случае.
-  style: { version: 8, sources: {}, layers: [
-    { id:'bg', type:'background', paint:{ 'background-color':'#eef2f5' } } ] },
-  center: [68, 60], zoom: 2.6, maxZoom: 12
-});
-map.addControl(new maplibregl.NavigationControl({ showCompass:false }), 'bottom-right');
-map.addControl(new maplibregl.ScaleControl({ unit:'metric' }), 'bottom-left');
+// Leaflet, а не WebGL-карта: рисует обычным canvas и работает одинаково
+// везде — в том числе там, где WebGL отключён политикой или недоступен.
+// Для точек, полигонов и тепловой подложки этого достаточно.
+const map = L.map('map', { center:[59, 63], zoom:4, zoomControl:false, preferCanvas:true });
+L.control.zoom({ position:'topright' }).addTo(map);   // слева панель, кнопки ей не мешают
+L.control.scale({ imperial:false }).addTo(map);
 
-const init = async () => {
+const base = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+                         { maxZoom:18, attribution:'© OpenStreetMap contributors', opacity:.85 });
 
-  const [pts, reg] = await Promise.all([
-    fetch('points.json').then(r => r.json()),
-    fetch('regions.json').then(r => r.json())
-  ]);
+// Ступени, а не плавный переход: на плавной шкале соседние регионы
+// неразличимы, а смотрят на такую карту именно чтобы сравнить.
+const stepColor = c => c >= 30 ? '#7aa5c6' : c >= 20 ? '#96b9d3' : c >= 12 ? '#b2cde0'
+                     : c >= 6  ? '#cddfea' : c >= 1  ? '#e4edf3' : '#f7f9fa';
+
+let zones, dots, heat;
+
+Promise.all([
+  fetch('points.json').then(r => r.json()),
+  fetch('regions.json').then(r => r.json())
+]).then(([pts, reg]) => {
   document.getElementById('n').textContent = pts.features.length;
 
-  map.addSource('regions', { type:'geojson', data:reg });
-  map.addSource('points',  { type:'geojson', data:pts });
+  zones = L.geoJSON(reg, {
+    style: f => ({ fillColor: stepColor(f.properties.count), fillOpacity:.85,
+                   color:'#8a97a6', weight:.7 }),
+    onEachFeature: (f, l) => l.bindPopup(
+      `<b>${f.properties.name}</b>объектов: ${f.properties.count}`)
+  }).addTo(map);
 
-  // Заливка по числу объектов: шкала ступенями, а не плавная — на плавной
-  // соседние регионы неразличимы, а решение принимают именно по сравнению.
-  map.addLayer({
-    id:'zones', type:'fill', source:'regions',
-    paint:{
-      'fill-color': ['step', ['get','count'],
-        '#f7f9fa', 1,'#e4edf3', 6,'#cddfea', 12,'#b2cde0', 20,'#96b9d3', 30,'#7aa5c6'],
-      'fill-opacity': 0.62
-    }
-  });
-  map.addLayer({ id:'zones-line', type:'line', source:'regions',
-                 paint:{ 'line-color':'#8a97a6', 'line-width':0.6 } });
+  heat = L.heatLayer(pts.features.map(f => [f.geometry.coordinates[1], f.geometry.coordinates[0], 1]),
+    { radius:26, blur:22, minOpacity:.15, max:2.2,
+      gradient:{ 0.2:'rgba(250,220,170,.55)', 0.5:'rgba(244,170,90,.7)',
+                 0.8:'rgba(232,100,42,.8)', 1:'rgba(190,55,20,.9)' } }).addTo(map);
 
-  map.addLayer({
-    id:'heat', type:'heatmap', source:'points',
-    paint:{
-      'heatmap-radius': ['interpolate',['linear'],['zoom'], 2,14, 6,34, 10,60],
-      'heatmap-intensity': ['interpolate',['linear'],['zoom'], 2,0.9, 9,2.2],
-      'heatmap-opacity': 0.75,
-      'heatmap-color': ['interpolate',['linear'],['heatmap-density'],
-        0,'rgba(0,0,0,0)', 0.25,'rgba(250,220,170,.5)', 0.5,'rgba(244,170,90,.65)',
-        0.75,'rgba(232,100,42,.75)', 1,'rgba(190,55,20,.85)']
-    }
-  });
+  dots = L.geoJSON(pts, {
+    pointToLayer: (f, ll) => L.circleMarker(ll, { radius:4, color:'#fff', weight:1,
+                                                  fillColor:'#1b2a38', fillOpacity:.95 }),
+    onEachFeature: (f, l) => l.bindPopup(
+      `<b>${f.properties.name}</b>${f.properties.region || 'регион не определён'}`)
+  }).addTo(map);
 
-  map.addLayer({
-    id:'dots', type:'circle', source:'points',
-    paint:{
-      'circle-radius': ['interpolate',['linear'],['zoom'], 2,2.6, 6,4.5, 10,7],
-      'circle-color':'#1b2a38', 'circle-stroke-color':'#fff', 'circle-stroke-width':1,
-      'circle-opacity':0.95
-    }
-  });
-
-  const popup = new maplibregl.Popup({ closeButton:false, offset:10 });
-  map.on('click', 'dots', e => {
-    const p = e.features[0].properties;
-    popup.setLngLat(e.features[0].geometry.coordinates)
-         .setHTML(`<b>${p.name}</b>${p.region ? p.region : 'регион не определён'}`)
-         .addTo(map);
-  });
-  map.on('mouseenter', 'dots', () => map.getCanvas().style.cursor = 'pointer');
-  map.on('mouseleave', 'dots', () => map.getCanvas().style.cursor = '');
-
-  map.on('click', 'zones', e => {
-    if (map.queryRenderedFeatures(e.point, { layers:['dots'] }).length) return;
-    const p = e.features[0].properties;
-    popup.setLngLat(e.lngLat).setHTML(`<b>${p.name}</b>объектов: ${p.count}`).addTo(map);
-  });
-
-  const toggle = (box, ids) => document.getElementById(box).onchange = ev =>
-    ids.forEach(id => map.setLayoutProperty(id, 'visibility', ev.target.checked ? 'visible':'none'));
-  toggle('heat', ['heat']);
-  toggle('zones', ['zones','zones-line']);
-  toggle('dots', ['dots']);
-  // Подложка подключается по требованию, а не при старте. Тайловый сервер
-  // может быть недоступен (в некоторых сетях он закрыт), и тогда незагруженный
-  // источник держит стиль незавершённым — карта не рисует вообще ничего,
-  // включая собственные данные. Так данные видны всегда, а подложка — бонус.
-  document.getElementById('base').onchange = ev => {
-    if (ev.target.checked) {
-      if (!map.getSource('osm')) {
-        map.addSource('osm', { type:'raster', tileSize:256,
-          tiles:['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],
-          attribution:'© OpenStreetMap contributors' });
-        map.addLayer({ id:'osm', type:'raster', source:'osm',
-          paint:{ 'raster-saturation':-0.75, 'raster-opacity':0.85 } }, 'zones');
-      } else {
-        map.setLayoutProperty('osm', 'visibility', 'visible');
-      }
-    } else if (map.getLayer('osm')) {
-      map.setLayoutProperty('osm', 'visibility', 'none');
-    }
-  };
-};
-
-// Пустой стиль загружается мгновенно, и событие style.load успевает пройти
-// до того, как на него подпишешься: карта тогда остаётся пустой навсегда.
-// Поэтому сначала проверяем, не загрузился ли стиль уже.
-if (map.isStyleLoaded()) init(); else map.once('style.load', init);
+  const toggle = (id, layer) => document.getElementById(id).onchange = e =>
+    e.target.checked ? layer.addTo(map) : map.removeLayer(layer);
+  toggle('zones', zones);
+  toggle('dots', dots);
+  toggle('heat', heat);
+  document.getElementById('base').onchange = e =>
+    e.target.checked ? base.addTo(map) : map.removeLayer(base);
+});
 </script>
