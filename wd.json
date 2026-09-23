@@ -1,0 +1,6501 @@
+{
+  "head" : {
+    "vars" : [ "itemLabel", "coord" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(83.75805556 53.38888889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Барнаульская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(83.61008333 53.33566667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Барнаульская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(50.29444444 53.19916667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Безымянская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.61861 50.6)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Белгородская ГТ-ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.618611111 50.6)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Белгородская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.580555555 50.561111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Белгородская ГТУ-ТЭЦ «Луч»"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(86.42305556 54.44555556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Беловская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.77527778 59.38722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Березниковская ТЭЦ-10"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.82055556 59.45027778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Березниковская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.73583333 59.40694444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Березниковская ТЭЦ-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(85.08480556 52.49177778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Бийская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(132.9105556 48.8)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Биробиджанская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(127.4897222 50.28527778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Благовещенская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.664631 53.216741)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Брянская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.24694444 59.92527778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Василеостровская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(59.96027778 57.35555556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Верхнетагильская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(131.8780556 43.12583333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Владивостокская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(131.9727778 43.10027778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Владивостокская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.449 56.149)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Владимирская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.45461111 56.14477778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Владимирская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.45 48.56666667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волгоградская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.83972222 48.775)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волжская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.93888889 59.195)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Вологодская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(64.08138889 67.61055556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Воркутинская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(64.01805556 67.5)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Воркутинская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.2262554 51.6282675)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Воронежская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.157956 51.686665)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Воронежская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.37666667 59.96944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Выборгская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.56333333 57.60638889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Вышневолоцкая ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.801944444 54.034166666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ГРЭС-24"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.63083333 55.74777778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ГЭС-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.578425 51.28086944)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Губкинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(106.4833333 51.30083333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Гусиноозёрская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.16416667 53.25611111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Данковская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.81524 55.63345)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Дзержинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.37608333 54.98761111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Дорогобужская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.97888889 59.86861111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Дубровская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.62408333 54.67652778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Дягилевская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(52.07361111 55.83472222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Елабужская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.51480556 52.59469444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Елецкая ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(52.02277778 55.29027778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Заинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(87.23436111 53.87855556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Западно-Сибирская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(58.80277778 51.74888889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ириклинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.03008333 53.43783333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ишимбайская ГТУ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.87222222 56.63222222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Йошкар-Олинская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.84861111 56.61222222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Йошкар-Олинская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.125833333 55.760555555)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Казанская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.06027778 55.84527778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Казанская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(48.95205556 55.86738889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Казанская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(20.48388889 54.70972222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Калининградская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(20.59083333 54.66194444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Калининградская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(158.7394444 53.01138889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Камчатская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(95.69608333 56.22919444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Канская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(54.58819444 56.24855556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кармановская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(59.511688 58.706111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Качканарская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(85.98792 55.400798)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кемеровская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(86.06838889 55.36741667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кемеровская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(57.55555556 58.86638889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кизеловская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.58133333 58.55505556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кировская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.98305556 58.55583333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кировская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.59652778 58.62108333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кировская ТЭЦ-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.58133333 58.55505556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кировская ТЭЦ-5"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(136.9547222 50.60611111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Комсомольская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.90555556 57.78361111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Костромская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.03 57.75361111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Костромская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(93.03277778 56.02444444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Красноярская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(92.89666667 55.97138889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Красноярская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(94.48055556 56.15027778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Красноярская ГРЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(93.09480556 56.10972222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Красноярская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(93.38861111 56.13333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Красноярская ТЭЦ-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(87.24755556 53.76722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кузнецкая ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(65.36111 55.49083)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Курганская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(94.54444444 51.70166667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кызыльская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.945919 57.612547)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ляпинская котельная"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(59.01944444 53.39547222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ Магнитогорского металлургического комбината"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.825378 60.910028)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Мини-ТЭЦ «Белый Ручей»"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(91.77788889 53.65158333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Минусинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.05916667 68.95805556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Мурманская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(90.3475 56.03722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Назаровская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.92936111 44.6595)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Невинномысская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(124.8533333 56.66888889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нерюнгринская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(43.58611111 56.50083333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижегородская ГРЭС имени А. В. Винтера"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.94333333 60.97583333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижневартовская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(51.94038889 55.60661111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижнекамская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(140.7243889 53.13472222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Николаевская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(31.22194444 58.62361111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новгородская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(104.203888888 52.250833333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ново-Иркутская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(85.99416667 55.35111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ново-Кемеровская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(55.89527778 53.40194444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ново-Салаватская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.92036111 53.11033333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новокуйбышевская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.87005557 53.08158334)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новокуйбышевская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.2375 54.08638889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новомосковская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(82.87427778 54.99933333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новосибирская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(82.853888888 55.008055555)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новосибирская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(82.99 55.1)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новосибирская ТЭЦ-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(83.06056 55.00556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новосибирская ТЭЦ-5"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(82.76139 54.9502472)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новосибирская ТЭЦ-6"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.58598889 55.70008056)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-20"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.64722222 54.03694444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Троицкая ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.48333 67.46528)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кольская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.95833333 52.09444444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Балаковская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.31666667 56.85)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Белоярская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.063055555 57.906944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Калининская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(22.166276 54.940619)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Балтийская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(29.0571 59.8305)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ленинградская АЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.60555556 51.675)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Курская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.1981888 51.2699437)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нововоронежская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.571388888 55.083888888)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Обнинская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.36416667 47.59944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ростовская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.23333333 54.16666667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Смоленская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.5734 54.0675)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Троицкая АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(29.0512 59.8521)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ленинградская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.466667 67.466667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кольская АЭС II"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.21145 51.26499)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нововоронежская АЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.37882296 59.971905)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волхов-Северная (подстанция)"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.81011 44.728286)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "НоворЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.615427 55.75948)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новый Манеж"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(133.1355444 43.0615)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Партизанская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.488567 59.86656)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Правобережная ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.033962 51.522265)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Саратовская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.03394444 51.52227778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Саратовская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(43.89138889 56.3525)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сормовская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.75444444 43.59472222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сочинская ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(48.39944444 53.06416667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сызранская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(87.087443 53.769528)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ Кузнецкого металлургического комбината"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.65 55.705)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-9"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.30426111 57.52418333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Центральный музей истории гидроэнергетики России"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(179.1322222 66.40194444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Эгвекинотская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.01861111 47.87138889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Экспериментальная ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.58372 51.68703)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Курская АЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.36472222 55.74722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижегородская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.233333 54.166667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Смоленская АЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.77027778 56.74305556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Конаковская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(89.0725 55.57944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Берёзовская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.175 57.45944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Костромская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.57336111 64.57541667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Архангельская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.04888889 59.48583333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Киришская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(91.32194444 53.71944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Абаканская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.28688333 59.87008611)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Автовская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(43.8925 56.24333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Автозаводская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.94875 43.42008333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Адлерская ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.85124 54.447862)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Алексеевская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.041639 54.493224)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Алексинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(136.885 50.22666667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Амурская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(177.4995167 64.73047222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Анадырская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.42277778 67.59805556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Апатитская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.77861111 55.63888889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Аргаяшская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(147.1805556 63.03416667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Аркагалинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.06083333 45.01777778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Армавирская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.89708333 57.3095)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Артёмовская ТЭЦ (Свердловская область)"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(132.305 43.37138889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Артёмовская ТЭЦ (Приморский край)"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(48.08805556 46.37527778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Астраханская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(104.1820278 51.51552778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Байкальская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.78333333 51.97555556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Балаковская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(78.36555556 55.44777778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Барабинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(83.77055556 53.37416667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Барнаульская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.10306 45.32833)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сакская ВЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.08491667 44.80966667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Судакская ВЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(177.565 64.76666667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Анадырская ВЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(54.250277777 54.578861111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ВЭС Тюпкильды"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(20.35 54.93333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Зеленоградская ВЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.77 45.421111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Тарханкутская ВЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(63.28333333 55.23333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Шумихинская ВЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.14694444 45.39638889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Донузлавская ВЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.7823 55.8876)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.570555555 44.611111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Объект «Крот»"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(73.5125 61.2794)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сургутская ГРЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.56111111 55.58333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Шатурская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.7775 54.03444444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Рязанская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(73.4889 61.2794)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сургутская ГРЭС-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.208639 60.47611)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ленинградская ГАЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.342944 44.229694)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кубанская ГАЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.701944444 46.849166666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Азовская ВЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.811891 68.847734)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кольская ВЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.96566 51.505864)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Саратовская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.1537 51.46)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Энгельсская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(50.7275 61.81028)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ Монди СЛПК"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.511878 56.081759)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новочебоксарская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.300305 56.1253)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Чебоксарская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.612778 55.742778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ГЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.3988548 59.7197272)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Дворцовая электростанция"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.44352 55.75762)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Электросталь. ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.42947 55.81313)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Электросталь. Электростанция, работающая на природном газе"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.07602 69.37692)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kislogubskaya Elektricheskaya Stantsiya"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.379279 59.972002)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Комплекс построек Главной понижающей подстанции Волховстроя"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.220243 55.571022)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Электростанция с фабричной трубой"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.19111111 56.48166667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Загорская ГАЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(22.182464 54.590777)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Гусевская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.25556 52.75)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Клинцовская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.11778 53.15722)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ефремовская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(58.70722222 52.72638889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Зауральская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.261148 54.547974)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Калужская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(158.6805556 52.96994444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Камчатская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.528578 52.597157)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Котовская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.114142 51.661469)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Курская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.198449 51.729666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Курская ТЭЦ-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.13987 51.766565)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Курская ТЭЦ СЗР"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.543073 52.40991)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ливенская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.695406 52.572855)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Липецкая ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(52.47583333 55.69055556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Набережночелнинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(59.85369444 58.61413889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижнетуринская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(87.24944444 53.76694444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новокузнецкая ГТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.76388889 44.43888889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Джубгинская ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.384983 57.022488)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ивановские ПГУ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.602777777 44.554166666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Севастопольская ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(177.4828333 64.7286666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Анадырская ГМТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.6262851 43.2931691)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Грозненская ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(53.179117 56.845364)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ижевская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.223611111 44.943055555)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Таврическая ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.551886 45.134392)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сакская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(58.176388888 51.947777777)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Исянгуловская СЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.60775 56.83372)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Городская электростанция «Луч»"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(20.59145 54.65642)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Прегольская ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(142.909722 53.573056)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Охинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.602777777 44.554166666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Севастопольская ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.223611111 44.943055555)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Таврическая ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.10611111 44.82944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Будённовская ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.56111111 55.58333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Шатурская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.036111111 45.012222222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Симферопольская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(58.5 51.24027778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Орская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(88.34416667 69.51805556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Норильская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.562787 55.754766)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-7 Мосэнерго"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(90.40055556 56.23027778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ Ачинского глинозёмного комбината"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.14394444 55.11705556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Тургоякская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.529862 42.974555)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Махачкалинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(107.615075 51.832719)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Улан-Удэнская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(131.916 43.005)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Мини-ТЭЦ «Океанариум»"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.14389 54.77139)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Смоленская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(48.286388888 54.225555555)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ульяновская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(48.335277777 54.319722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ульяновская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(48.624722222 54.346944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ульяновская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.41361 45.27667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Камыш-Бурунская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.8409 56.8399)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новосвердловская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(177.4828333 64.7286666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Анадырская ГМТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.281122 56.14592)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Чебоксарская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.9705667 56.3692)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Красногорская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.5953503 56.8750947)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Свердловская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(59.9830663 56.8952988)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Первоуральская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(55.8211577 52.7713989)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кумертауская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(55.9618771 53.6665613)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Стерлитамакская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.8848071 43.2738269)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Аргунская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(55.884887 53.666218)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ново-Стерлитамакская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.6215322 43.2688547)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Грозненская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(137.03639 50.54111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Комсомольская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.40139 50.11111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Камышинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(53.3395 56.893111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ижевская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(55.8371115 54.8020578)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Затонская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.0331702 55.0286924)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Приуфимская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(140.22611 48.94139)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ в г. Советская Гавань"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(129.628611111 62.054166666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Якутская ГРЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(43.52083 56.23361)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Дзержинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(84.945227 56.482182)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Томская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(101.596541 56.122651)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Иркутская ТЭЦ-6"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(131.94278 43.13611)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ «Восточная»"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.565555555 50.611111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Мичуринская ГТ ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(140.223861 49.006444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Майская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.43333 52.71667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Тамбовская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(107.615075 51.832719)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Улан-Удэнская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(129.692194 49.747944)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Райчихинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(135.03639 48.493944)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Хабаровская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(124.90917 56.85111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Чульманская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(136.975333 50.561333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Комсомольская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(119.094977 50.358133)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Приаргунская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.385214 59.934667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Петроградское общество электрических сооружений (ТЭЦ-2)"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.652446 55.697777)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ ЗИЛ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.28164 59.96126)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Силовая станция фабрики «Красное знамя»"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(82.92065 55.01581)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ № 1 Железнодорожного района"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.362 60.0805)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ в районе Парнас"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.6878 55.9161)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-27"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.451111111 59.8275)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Южная ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.47444444 60.07583333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Северная ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.801944444 54.034166666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ГРЭС-24"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(106.4833333 51.30083333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Гусиноозёрская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(52.02277778 55.29027778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Заинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(52.02277778 55.29027778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Заинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(58.80277778 51.74888889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ириклинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.125833333 55.760555555)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Казанская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(54.58819444 56.24855556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кармановская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(54.58819444 56.24855556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кармановская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(86.06838889 55.36741667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кемеровская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(94.48055556 56.15027778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Красноярская ГРЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.945919 57.612547)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ляпинская котельная"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(90.3475 56.03722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Назаровская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.92936111 44.6595)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Невинномысская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(124.8533333 56.66888889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нерюнгринская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(43.58611111 56.50083333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижегородская ГРЭС имени А. В. Винтера"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(76.94333333 60.97583333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижневартовская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(51.94038889 55.60661111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижнекамская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.2375 54.08638889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новомосковская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.23333333 47.4)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новочеркасская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(75.40388889 63.18666667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ноябрьская парогазовая электростанция"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(65.46666667 62.16666667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Няганская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.098328 52.987898)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Орловская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.24666667 59.87305556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Первомайская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.3442 58.4964)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Пермская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.27555556 61.80361111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Петрозаводская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(57.31563889 65.13444444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Печорская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(134.2911111 46.4625)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Приморская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.71166667 57.10666667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Рефтинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(55.09848889 51.84337778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сакмарская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(50.101756 53.202065)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Самарская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(50.27555556 53.25138889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Самарская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.20805556 54.21583333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Саранская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.0101 51.6234)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Саратовская ТЭЦ-5"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.91833333 51.45277778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Саратовская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.092 60.01583333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Северо-Западная ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.68888889 59.61527778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Серовская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.41388889 55.60555556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Смоленская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.46405556 56.99722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Среднеуральская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.51111111 45.31222222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ставропольская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.73027778 55.75277778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-11"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.560528 55.735889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-12"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.50222222 55.78305556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-16"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.51071944 55.894675)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-21"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.77167 55.82111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-23"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.44611111 55.69527778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-25"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.50611111 55.89166667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-28"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.63 55.5775)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-26"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.696222 55.723528)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-8"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.24527778 53.575)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ Волжского автозавода"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.90583333 56.90472222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Тверская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.45388889 53.54722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Тольяттинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(85.04222222 56.62111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Томская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(84.997155 56.471673)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Томская ГРЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(87.58777778 53.78138889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Томь-Усинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(65.62694444 57.08666667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Тюменская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(65.60686111 57.14713889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Тюменская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(78.08384722 66.03499167)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Уренгойская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(53.47916667 54.59916667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Уруссинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(135.1175 48.41361111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Хабаровская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.7 50.85388889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Харанорская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.403727 55.201536)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Челябинская ТЭЦ-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.4775 55.13388889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Челябинская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.49972222 55.15333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Челябинская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.49083333 55.23)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Челябинская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.47916667 54.1375)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Черепетская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.125 59.22888889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Череповецкая ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.232464 54.455653)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Южноуральская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(57.24611111 59.33777778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Яйвинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.87611111 57.64944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ярославская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.8375 57.65111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ярославская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.77111111 57.55055556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ярославская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(20.124121 54.664425)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Светловская ГРЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(59.85369444 58.61413889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижнетуринская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(142.964035 48.9786307)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сахалинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(129.7741667 62.05972222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Якутская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(65.232 55.4101)"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q19378458"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(88.695277777 50.020833333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кош-Агачская солнечная электростанция"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(53.985 63.5775)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сосногорская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(73.2589 55.0679)"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q25426945"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(73.2589 55.0679)"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q25426947"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(73.4877 55.0016)"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q25426948"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.10611111 44.82944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Будённовская ТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(57.405 53.0894)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Бурзянская СЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(85.15425 50.422805555)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ust-Koksa Solar Power Plant"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.871388888 42.977222222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Чиркейская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(91.370130555 52.825269444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Саяно-Шушенская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(89.92777778 65.65444444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Эвенкийская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(127.30555556 53.77)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Зейская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.191642 60.918607)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Верхнесвирская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.340223 59.912879)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волховская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(99.15833333 58.7)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Богучанская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(130.313055555 50.270555555)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Бурейская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(92.294444 55.934722)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Красноярская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.706012 60.806167)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижне-Свирская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.754944 52.053028)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Саратовская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.671944444 48.826111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волжская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.53361111 55.41777778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Павловская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(91.5 52.96666667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Майнская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.824908 58.082117)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Рыбинская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(43.428955555 56.650186111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижегородская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(54.084722222 56.791388888)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Воткинская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(28.21055556 59.36777778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нарвская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(101.786111 56.286111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Братская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(104.32861111 52.24277778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Иркутская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(49.478888888 53.426666666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Жигулёвская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(150.40833333 62.05416667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Колымская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(152.143611111 62.417777777)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Усть-Среднеканская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.297512 57.527314)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Угличская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.12243 56.734796)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Иваньковская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.465555555 56.138055555)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Чебоксарская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(102.693611 57.967778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Усть-Илимская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(87.775058 68.089367)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Усть-Хантайская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.328333 58.114167)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Камская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.3275909 58.1146187)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Камская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(28.78027778 68.97166667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Янискоски ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(28.60055556 68.93861111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кайтакоски ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(29.24206 69.11756)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Хеваскоски ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.13949 69.64339)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Борисоглебская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(43.39690833 43.65510833)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Баксанская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(29.00556 69.02278)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Раякоски ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.8316 42.7452)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ирганайская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(43.7175 43.3525)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Аушигерская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(48.29320556 41.77775556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ахтынская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.69166667 64.51166667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Беломорская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.99664167 65.04945556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Белопорожская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.65 45.89416667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Белореченская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.04166667 69.09125)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Верхне-Териберская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(31.74777778 68.60666667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Верхнетуломская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(113.4927778 63.07055556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Вилюйская ГЭС-III"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(112.471 63.0322)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Вилюйская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.66666667 64.48833333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Выгостровская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.0325 42.454722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Гергебильская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.4601 42.9025)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Гизельдонская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.917431 42.52996)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Гоцатлинская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.987861 42.431806)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Гунибская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.6861 43.00995)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Дзауджикауская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.59666667 45.06833333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Егорлыкская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.55055556 45.11083333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Егорлыкская ГЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.038861111 42.829777777)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Зарамагские ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.8825 43.89833)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Зеленчукские ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(31.38944444 66.66916667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Иовская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.52194444 55.44138889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ичалковская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.46448889 55.76269444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Карамышевская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(177.4995167 64.73047222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Анадырская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(48.08613889 46.33211111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Астраханская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.17555556 59.78138889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Богословская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.94833333 61.395)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Валаамская ДЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.60888889 48.50305556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волгоградская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.66833333 48.4575)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волгоградская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.11801389 47.51501667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волгодонская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.21055556 47.49608333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волгодонская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.83972222 48.775)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волжская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.81777778 48.82416667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волжская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.23944444 48.32138889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Каменская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.06083333 45.01777778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Краснодарская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.99277778 55.80833333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Орехово-Зуевская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.02193 53.22257)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Пензенская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.53608333 54.03361111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Первомайская ТЭЦ (Тульская область)"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.28305556 58.12555556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Пермская ТЭЦ-13"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.25611111 57.97722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Пермская ТЭЦ-6"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.14722222 57.925)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Пермская ТЭЦ-9"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.57944444 47.21611111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ростовская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(55.8875 53.39694444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Салаватская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.18708333 54.19861111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Саранская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.85783333 64.58111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Северодвинская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.90797222 64.56344444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Северодвинская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.055 54.90277778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ступинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.63 55.5775)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭЦ-26"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.8575 56.85261111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Тверская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.96255556 56.84247222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Тверская ТЭЦ-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(68.44525 58.24494444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Тобольская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.09111111 54.84)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Уфимская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.11777778 54.79222222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Уфимская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.09138889 54.87083333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Уфимская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.07194444 54.91305556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Уфимская ТЭЦ-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(135.1509444 48.57130556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Хабаровская ТЭЦ-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.68972 57.71972)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Хуадянь-Тенинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.3875 59.93416667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Центральная ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(53.927658 56.728192)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Чайковская ТЭЦ-18"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(170.2902778 69.70444444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Чаунская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.403727 55.201536)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Челябинская ТЭЦ-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(113.3575 52.05388889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Читинская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.48298056 58.40175278)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Шарьинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.29972222 47.75833333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Шахтинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.18111111 59.87111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Юго-западная ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(142.7422222 46.99805556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Южно-Сахалинская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(73.2123 55.084)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Омская ТЭЦ-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.675606 45.236807)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Митяево (электростанция)"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.5978 45.2869)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Охотниково (электростанция)"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.931188 45.038111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Родниковое (электростанция)"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.754849 44.969412)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Николаевка"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.554578 56.773083)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Академическая ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(166.5385041 68.05086)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Билибинская АЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.78333333 55.88333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Электрогорская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.77027778 56.74305556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Конаковская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(89.0725 55.57944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Берёзовская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.175 57.45944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Костромская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(73.5125 61.2794)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сургутская ГРЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.04888889 59.48583333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Киришская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(87.26527779 53.51222223)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Южно-Кузбасская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(29.96944444 57.50972222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Псковская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.56111111 55.58333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Шатурская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.7775 54.03444444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Рязанская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(73.4889 61.2794)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сургутская ГРЭС-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(147.1805556 63.03416667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Аркагалинская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(48.08805556 46.37527778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Астраханская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(86.42305556 54.44555556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Беловская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.664631 53.216741)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Брянская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(59.96027778 57.35555556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Верхнетагильская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.45 48.56666667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волгоградская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(127.30555556 53.77)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Зейская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.340223 59.912879)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Волховская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(47.882679 41.342056)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Курушская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.528888888 55.760277777)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ТЭС «Международная»"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(36.77027778 56.74305556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Конаковская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.25972223 54.85805557)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Каширская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(89.0725 55.57944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Берёзовская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(87.26527779 53.51222223)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Южно-Кузбасская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(39.56111111 55.58333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Шатурская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(103.9790833 52.46219444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Иркутская ТЭЦ-10"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(150.7869444 59.58347222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Магаданская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(90.3475 56.03722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Назаровская ГРЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(82.99 55.1)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новосибирская ТЭЦ-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(83.06056 55.00556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новосибирская ТЭЦ-5"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(45.20805556 54.21583333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Саранская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(84.81166667 56.6175)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Северская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(135.1175 48.41361111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Хабаровская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.4775 55.13388889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Челябинская ТЭЦ-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(61.49972222 55.15333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Челябинская ТЭЦ-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.156944444 66.040833333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Интинская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(102.807036 58.050957)"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q25426936"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.8409 56.8399)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новосвердловская ТЭЦ"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(73.4877 55.0016)"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q25426948"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(142.1875 48.05361)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сахалинская ГРЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.472694 44.276722)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кубанская ГЭС-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.500167 44.344861)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кубанская ГЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(52.27833333 55.69944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижнекамская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(159.13306 56.0)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Быстринская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.815288 44.012511)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ГЭС «Белый уголь»"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(43.7570482 43.3915301)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Зарагижская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(58.6275 51.67194444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ириклинская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(21.1244 54.4733)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Правдинская ГЭС-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(92.295555555 55.936666666)"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q17191489"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(59.135351844 55.28167572)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ГЭС «Пороги»"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.11666667 47.65)"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q19393436"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.232667 44.600389)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кубанская ГЭС-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.028833 44.664861)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кубанская ГЭС-4"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(43.64633333 43.33041667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кашхатау ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.37602778 66.86380556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Княжегубская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.26167 62.19472)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кондопожская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.17438889 43.66286111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Краснополянская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.66752778 65.03341667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кривопорожская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(31.09138889 66.36083333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кумская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(88.3375 66.94416667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Курейская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(28.8723063 61.0588046)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Лесогорская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.10524 44.592035)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Майкопская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(114.0322222 57.80916667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Мамаканская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.46916667 64.41527778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Маткожненская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.83 43.06722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Миатлинская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(115.7702778 56.03694444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Мокская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.45980556 67.28161111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нива ГЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.43833333 67.22027778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нива ГЭС-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.52730556 67.38122222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нива ГЭС-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(129.96833 49.78778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижне-Бурейская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(88.327777777 66.913888888)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижне-Курейская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.14694444 69.12527778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижне-Териберская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.81916667 68.82166667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нижнетуломская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(82.9863889 54.85027779)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новосибирская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.53111111 45.31555556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Новотроицкая ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.42472222 53.06111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Нугушская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(22.01830556 54.40825)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Озёрская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.17833333 63.91722222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ондская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.33611111 64.21944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Палокоргская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.673611111 62.484166666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Пальеозёрская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.70611111 55.67111111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Перервинская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.258289 64.910661)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Подужемская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(21.012657 54.433835)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Правдинская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.54666667 65.935)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Путкинская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(28.8391328 61.1048458)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Светогорская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.90111111 44.74166667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Свистухинская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(41.67138889 45.01638889)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сенгилеевская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.53416667 68.81805556)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Серебрянская ГЭС-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.69777778 68.98694444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Серебрянская ГЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(37.43072222 55.83536111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сходненская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(48.42917 53.14861)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сызранская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.24555556 56.87416667)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Хоробровская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(42.11222222 47.60611111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Цимлянская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(86.004832 51.391104)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Чемальская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(38.49055556 59.23583333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Шекснинская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(57.792459722 58.834708055)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Широковская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.6444 42.8388)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Эзминская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(56.414722222 52.956388888)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Юмагузинская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(32.00253 64.831267)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Юшкозерская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.852166666 43.153944444)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Гельбахская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(60.7553816 58.8531642)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Верхотурская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.2607333 43.2645361)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Беканская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.83516667 43.1825)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Чирюртская ГЭС-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.834833 43.18972)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Чирюртская ГЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.140555555 42.573333333)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Гидроэлектростанция Гигатлинская"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(40.472222222 48.239166666)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Гидроузёл Номер Шесть"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(46.658333333 43.823611111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Копайский Гидроузел"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(43.41972 43.090194)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Верхнебалкарская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(92.9685777 60.2528347)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Енашиминская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(157.5740245 52.6131766)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Толмачёвская ГЭС-1"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(157.495635 52.6053691)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Толмачёвская ГЭС-2"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(157.44806 52.62778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Толмачёвская ГЭС-3"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(44.697611 48.819528)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Межшлюзовая ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.94615 61.85544)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Сооружения гидроэлектростанции «Хямекоски»"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(35.83333 56.14194)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Ярополецкая ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.296268 58.260547)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Боровновская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(30.067963 60.628409)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Старая финская ГЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(170.309888888 69.70975)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Академик Ломоносов"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(33.075628 69.377471)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Кислогубская ПЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(158.20166667 52.53861111)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Мутновская ГеоЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(158.237672 52.551404)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Верхне-Мутновская ГеоЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(145.7725 43.99222222)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Менделеевская ГеоТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(147.987471 45.092868)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Океанская ГеоТЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(156.81166667 51.46527778)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Паужетская геотермальная электростанция"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(162.0 61.0)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Пенжинская ПЭС"
+      }
+    }, {
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(34.959336 69.186745)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "Северная ПЭС"
+      }
+    } ]
+  }
+}
