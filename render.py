@@ -27,8 +27,16 @@ HEAD = 0.155          # доля высоты под заголовок
 FOOT = 0.075          # и под подпись с источниками и шкалой
 
 SCALE = {"экран": 1600, "печать": 7000}        # ширина в точках
-STEPS = [(0, "#f2f6f9"), (1, "#cfe0ec"), (6, "#9dc0d9"),
-         (12, "#e0a38f"), (20, "#c46a4c"), (30, "#9e3b1f")]
+# Две шкалы на одной карте должны быть из разных семейств, иначе читатель не
+# понимает, что перед ним: заливка региона или пятно плотности. Зоны —
+# холодные и приглушённые, плотность — тёплая. Точки не участвуют ни в одной
+# шкале и потому графитовые: они одинаково видны и на синем, и на оранжевом.
+# Холодная шкала намеренно остаётся светлой: тёмно-синяя заливка под тёплым
+# пятном плотности даёт грязный оливковый, и обе величины перестают читаться.
+STEPS = [(0, "#f7f9fa"), (1, "#e4edf3"), (6, "#cddfea"),
+         (12, "#b2cde0"), (20, "#96b9d3"), (30, "#7aa5c6")]
+HEAT = "#e8642a"          # тёплая подложка плотности
+DOT = "#1b2a38"           # графит для точек
 
 
 def merc(lat):
@@ -75,6 +83,7 @@ def draw(width, name):
     img = Image.new("RGB", (width, h), "#ffffff")
     dr = ImageDraw.Draw(img)
     dr.rectangle([0, top, width, top + map_h], fill="#eef2f5")
+    dr.line([0, top, width, top], fill="#d8dee6", width=max(1, width // 900))
 
     # ---- зоны покрытия: заливка по числу объектов
     for f in regions["features"]:
@@ -98,8 +107,8 @@ def draw(width, name):
     peak = max(heat.getdata()) or 1
     heat = heat.point(lambda v: min(255, int(v * 255 / peak)))
 
-    warm = Image.new("RGB", (width, h), "#9e3b1f")
-    img = Image.composite(warm, img, heat.point(lambda v: int(v * 0.55)))
+    warm = Image.new("RGB", (width, h), HEAT)
+    img = Image.composite(warm, img, heat.point(lambda v: int(v * 0.5)))
 
     # ---- объекты
     dot = max(2, width // 500)
@@ -108,7 +117,7 @@ def draw(width, name):
         x, y = proj(*f["geometry"]["coordinates"])
         if 0 <= x <= width and 0 <= y <= h:
             d2.ellipse([x - dot, y - dot, x + dot, y + dot],
-                       fill="#b4432b", outline="#ffffff", width=max(1, dot // 3))
+                       fill=DOT, outline="#ffffff", width=max(1, dot // 3))
 
     # ---- подписи
     try:
@@ -119,7 +128,7 @@ def draw(width, name):
     pad = width // 45
     d2.text((pad, int(top * 0.18)), "Объекты теплоснабжения: покрытие и плотность",
             fill="#16202b", font=big)
-    best = sorted(regions["features"], key=lambda f: -f["properties"]["count"])[:3]
+    best = sorted(regions["features"], key=lambda f: -f["properties"]["count"])[:2]
     lines = [f"{f['properties']['name']} — {f['properties']['count']}" for f in best]
     d2.text((pad, int(top * 0.66)), "Больше всего объектов:  " + " · ".join(lines),
             fill="#3b4856", font=small)

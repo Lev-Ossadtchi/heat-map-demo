@@ -31,7 +31,7 @@ def heat_png(width, height, proj, points, alpha=0.55):
     heat = heat.filter(ImageFilter.GaussianBlur(r * 0.8))
     peak = max(heat.getdata()) or 1
     heat = heat.point(lambda v: min(255, int(v * 255 / peak * alpha)))
-    warm = Image.new("RGB", (width, height), "#9e3b1f")
+    warm = Image.new("RGB", (width, height), R.HEAT)
     rgba = warm.convert("RGBA")
     rgba.putalpha(heat)
     buf = io.BytesIO()
@@ -84,10 +84,10 @@ def main():
     for f in points["features"]:
         x, y = proj(*f["geometry"]["coordinates"])
         if top <= y <= top + map_h and 0 <= x <= w:
-            parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.2" fill="#b4432b" '
+            parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.2" fill="#1b2a38" '
                          f'stroke="#ffffff" stroke-width="1"/>')
 
-    best = sorted(regions["features"], key=lambda f: -f["properties"]["count"])[:3]
+    best = sorted(regions["features"], key=lambda f: -f["properties"]["count"])[:2]
     line = " · ".join(f"{f['properties']['name']} — {f['properties']['count']}" for f in best)
     pad = w // 45
     parts += [
